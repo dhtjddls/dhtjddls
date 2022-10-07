@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ohnakji
+- 👋 Hi, I’m Seong-In Oh!
 - 👀 I’m interested in how to improve my programing skills.
 - 🌱 I’m currently learning algorithm, html, css, js.
 - 💞️ I’m looking to collaborate on everyone who want
